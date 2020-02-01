@@ -1,0 +1,1 @@
+# Finding_waldo-OpenCV_mini_project
